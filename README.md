@@ -51,3 +51,11 @@
 ## 译者
 
 **马加丹汉化组**
+
+## 版权声明
+
+本仓库仅提供中文译文及翻译工具链。原文版权归原作者及出版社所有。
+
+如有侵权，请在 Issue 中声明，我们将及时删除相关内容。
+
+联络方式：[GitHub Issues](https://github.com/Misaka0x26FE/book-krauze_mexico/issues)
