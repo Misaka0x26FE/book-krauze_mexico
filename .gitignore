@@ -1,0 +1,24 @@
+# Original source files (copyrighted)
+*.pdf
+*.epub
+*.txt
+_原始*
+*.mobi
+*.docx
+
+# Intermediate processing files
+split/
+_reports/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local IDE config
+.qoder/
+.idea/
+.vscode/
+*.swp
+*.swo
+__pycache__/
+*.pyc
