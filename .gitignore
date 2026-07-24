@@ -7,7 +7,7 @@ _原始*
 *.docx
 
 # Intermediate processing files
-split/
+# split/ — 源语言分片，交付以供校对
 _reports/
 
 # System files
